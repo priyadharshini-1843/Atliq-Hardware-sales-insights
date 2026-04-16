@@ -73,40 +73,39 @@ I’ve used Card chart to visualize the values
 
 
 To display the top 5 customers, I’ve added stacked bar chart and used filtering type Top N to display in chart with x-axis to be revenue and y-axis to be customer and product code
+<img width="361" height="287" alt="image" src="https://github.com/user-attachments/assets/d9317430-433c-4c9f-bc89-ff357d7bf532" />
 
 
-Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
+To Find the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
 Added a table to display Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
+<img width="536" height="340" alt="image" src="https://github.com/user-attachments/assets/b8bdd32c-8911-4da6-a551-bcbdf980793a" />
 
 
 Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
 Added stack bar chart to display Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market separately
+<img width="596" height="575" alt="image" src="https://github.com/user-attachments/assets/e72fd883-53bb-4497-8b36-ea5e772ff51b" />
 
 
 Finding the Revenue trend by years
 Line chart is used to analyze the revenue trend by years with x-axis as date and y-axis with revenue
-
-
-Analyzing Revenue contribution by customer type
-Used donut chart to get insights on revenue contribution by customer type with legend to be customer type and value as revenue
+<img width="562" height="306" alt="image" src="https://github.com/user-attachments/assets/d66ef04f-747a-47c9-acad-f4f42310bc6b" />
 
 
 Additional Tasks
 Added a horizontal tiles to find the insights for each year and each month.
-Press enter or click to view image in full size
+<img width="461" height="110" alt="image" src="https://github.com/user-attachments/assets/7622632f-b96d-4628-ba81-aa41d96202a4" />
+
 
 Added line and clustered column chart to analyze the profit margin % in current year with last year
+<img width="593" height="240" alt="image" src="https://github.com/user-attachments/assets/8c2eea3d-943f-40aa-9dc3-ab07cedf2b45" />
 
 Added slicer with value to be profit margin %. So whenever we have market or zones less than target value %, it’ll be indicated in different color
 
-Added page navigators to navigate easily between pages
-
 Final Report
-Press enter or click to view image in full size
+<img width="1262" height="850" alt="Screenshot 2026-04-06 163741" src="https://github.com/user-attachments/assets/7efebe71-1653-4909-b1d2-d0603e81bf13" />
+<img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/37d2a3fa-2e33-4fa0-a4fd-709b2a89211c" />
+<img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/0593e184-c52d-405c-ad9b-78fe7fa166cd" />
 
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
 
 Insights
 There is a decrease in the revenue trend from 2017–2020
@@ -114,3 +113,10 @@ Delhi NCR is the highest contributor in Revenue and Sales quantity by Market
 E-commerce gives the highest revenue contribution by customer type
 Surat gives highest profit % by market
 Central Market contributes to more Revenue
+
+
+Recommendations
+Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubaneshwar also.
+Try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
+Try to give special benefits to Electronics and Excel stores as they are most profitable customers.
+Make campaign strategy for mid year as they are showing high sales among other months.
