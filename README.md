@@ -1,19 +1,19 @@
 # Atliq-Hardware-sales-insights
-##Finding the sales analysis of AtliQ Technologies using Power BI
+-Finding the sales analysis of AtliQ Technologies using Power BI
 
 
 
 
-##Tools used:
+-Tools used:
 Power BI, MySQL
 
-##Problem statement
+-Problem statement
 
 AtliQ Hardware, with multiple branches across India, provides computer hardware and peripheral manufacturers to its clients. The sales director is encountering difficulties in comprehending the company’s current issues and performance, as sales are decreasing below expectations.
 
 Whenever the director seeks updates from regional managers regarding sales and the market, they tend to sugarcoat the truth and send excessive Excel files, adding to the director’s frustration. The frustration is understandable, as humans often find it challenging to comprehend numbers from Excel files.
 
-##Solution
+-Solution
 
 As a data analyst, a solution to address the sales director’s problem at AtliQ hardware would be to BI dashboards that can help with data visualization and analysis. The sales director can use dashboard that pulls in data from various sources, including the company’s sales data, market trends, and regional manager reports. With the dashboard, the sales director can easily see the current state of the business, identify problem areas, and make data-driven decisions.
 
@@ -23,12 +23,12 @@ As a data analyst, a solution to address the sales director’s problem at AtliQ
 
 By having a clear, visual representation of the data, the sales director can also avoid relying on Excel files and sugar-coated reports from regional managers, which can lead to misunderstandings and frustration.
 
-##Data
+-Data
 We are provided with the SQL dataset which contains customers, date, transactions, markets, and products tables. We need to provide insights using the data from those tables
 <img width="1147" height="649" alt="Screenshot 2026-04-06 121131" src="https://github.com/user-attachments/assets/7192194b-7b9d-41a0-b08b-189b254421ee" />
 
 
-##Task
+-Task
 Finding Profit Margin, Sales Quantity and Revenue made in each year/month
 Analyzing top 5 customers and product by revenue
 Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
@@ -61,38 +61,46 @@ I’ve used Card chart to visualize the values
 <img width="418" height="87" alt="image" src="https://github.com/user-attachments/assets/d967d060-43fa-47f5-bc58-5e6f744cccb3" />
 
 
-To display the top 5 customers, I’ve added stacked bar chart and used filtering type Top N to display in chart with x-axis to be revenue and y-axis to be customer and product code
+To display the top 5 customers, I’ve added stacked bar chart and used filtering type Top N to display in chart with x-axis to be revenue and y-axis to be customer and product code  
+
 <img width="361" height="287" alt="image" src="https://github.com/user-attachments/assets/d9317430-433c-4c9f-bc89-ff357d7bf532" />
 
 
 To Find the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
 Added a table to display Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
+
 <img width="536" height="340" alt="image" src="https://github.com/user-attachments/assets/b8bdd32c-8911-4da6-a551-bcbdf980793a" />
 
 
 Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
 Added stack bar chart to display Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market separately
+
 <img width="596" height="575" alt="image" src="https://github.com/user-attachments/assets/e72fd883-53bb-4497-8b36-ea5e772ff51b" />
 
 
 Finding the Revenue trend by years
 Line chart is used to analyze the revenue trend by years with x-axis as date and y-axis with revenue
+
 <img width="562" height="306" alt="image" src="https://github.com/user-attachments/assets/d66ef04f-747a-47c9-acad-f4f42310bc6b" />
 
 
-Additional Tasks
+-Additional Tasks
+
 Added a horizontal tiles to find the insights for each year and each month.
+
 <img width="461" height="110" alt="image" src="https://github.com/user-attachments/assets/7622632f-b96d-4628-ba81-aa41d96202a4" />
 
 
 Added line and clustered column chart to analyze the profit margin % in current year with last year
+
 <img width="593" height="240" alt="image" src="https://github.com/user-attachments/assets/8c2eea3d-943f-40aa-9dc3-ab07cedf2b45" />
 
-Added slicer with value to be profit margin %. So whenever we have market or zones less than target value %, it’ll be indicated in different color
 
 Final Report
 
 <img width="1262" height="850" alt="Screenshot 2026-04-06 163741" src="https://github.com/user-attachments/assets/7efebe71-1653-4909-b1d2-d0603e81bf13" />
+
+
 
 <img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/37d2a3fa-2e33-4fa0-a4fd-709b2a89211c" />
 
@@ -101,7 +109,8 @@ Final Report
 
 
 
-Insights
+
+-Insights
 
 There is a decrease in the revenue trend from 2017–2020
 Delhi NCR is the highest contributor in Revenue and Sales quantity by Market
@@ -110,7 +119,7 @@ Surat gives highest profit % by market
 Central Market contributes to more Revenue
 
 
-Recommendations
+-Recommendations
 
 Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubaneshwar also.
 Try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
