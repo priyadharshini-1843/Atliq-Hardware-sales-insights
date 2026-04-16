@@ -103,8 +103,11 @@ Added slicer with value to be profit margin %. So whenever we have market or zon
 
 Final Report
 <img width="1262" height="850" alt="Screenshot 2026-04-06 163741" src="https://github.com/user-attachments/assets/7efebe71-1653-4909-b1d2-d0603e81bf13" />
+
 <img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/37d2a3fa-2e33-4fa0-a4fd-709b2a89211c" />
-<img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/0593e184-c52d-405c-ad9b-78fe7fa166cd" />
+
+<img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/6366f669-6611-4168-a8f3-b09beade3f82" />
+
 
 
 Insights
