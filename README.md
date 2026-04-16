@@ -1,17 +1,20 @@
 # Atliq-Hardware-sales-insights
-Finding the sales analysis of AtliQ Technologies using Power BI
+##Finding the sales analysis of AtliQ Technologies using Power BI
 
 
 
 
-Tools used: Power BI, MySQL
+##Tools used:
+Power BI, MySQL
 
-Problem statement
+##Problem statement
+
 AtliQ Hardware, with multiple branches across India, provides computer hardware and peripheral manufacturers to its clients. The sales director is encountering difficulties in comprehending the company’s current issues and performance, as sales are decreasing below expectations.
 
 Whenever the director seeks updates from regional managers regarding sales and the market, they tend to sugarcoat the truth and send excessive Excel files, adding to the director’s frustration. The frustration is understandable, as humans often find it challenging to comprehend numbers from Excel files.
 
-Solution
+##Solution
+
 As a data analyst, a solution to address the sales director’s problem at AtliQ hardware would be to BI dashboards that can help with data visualization and analysis. The sales director can use dashboard that pulls in data from various sources, including the company’s sales data, market trends, and regional manager reports. With the dashboard, the sales director can easily see the current state of the business, identify problem areas, and make data-driven decisions.
 
 
@@ -20,12 +23,12 @@ As a data analyst, a solution to address the sales director’s problem at AtliQ
 
 By having a clear, visual representation of the data, the sales director can also avoid relying on Excel files and sugar-coated reports from regional managers, which can lead to misunderstandings and frustration.
 
-Data
+##Data
 We are provided with the SQL dataset which contains customers, date, transactions, markets, and products tables. We need to provide insights using the data from those tables
 <img width="1147" height="649" alt="Screenshot 2026-04-06 121131" src="https://github.com/user-attachments/assets/7192194b-7b9d-41a0-b08b-189b254421ee" />
 
 
-Task
+##Task
 Finding Profit Margin, Sales Quantity and Revenue made in each year/month
 Analyzing top 5 customers and product by revenue
 Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
