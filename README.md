@@ -102,15 +102,18 @@ Added line and clustered column chart to analyze the profit margin % in current 
 Added slicer with value to be profit margin %. So whenever we have market or zones less than target value %, it’ll be indicated in different color
 
 Final Report
+
 <img width="1262" height="850" alt="Screenshot 2026-04-06 163741" src="https://github.com/user-attachments/assets/7efebe71-1653-4909-b1d2-d0603e81bf13" />
 
 <img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/37d2a3fa-2e33-4fa0-a4fd-709b2a89211c" />
 
-<img width="1179" height="793" alt="Screenshot 2026-04-06 163630" src="https://github.com/user-attachments/assets/6366f669-6611-4168-a8f3-b09beade3f82" />
+<img width="1189" height="790" alt="Screenshot 2026-04-16 234052" src="https://github.com/user-attachments/assets/fdbe5001-7811-4f0b-94d7-64e238b99216" />
+
 
 
 
 Insights
+
 There is a decrease in the revenue trend from 2017–2020
 Delhi NCR is the highest contributor in Revenue and Sales quantity by Market
 E-commerce gives the highest revenue contribution by customer type
