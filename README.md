@@ -122,6 +122,7 @@ Central Market contributes to more Revenue
 
 
 Recommendations
+
 Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubaneshwar also.
 Try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
 Try to give special benefits to Electronics and Excel stores as they are most profitable customers.
