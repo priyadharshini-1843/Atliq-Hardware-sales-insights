@@ -2,21 +2,7 @@
 Finding the sales analysis of AtliQ Technologies using Power BI
 
 
-Table of contents
-Problem statement
-Solution
-Data
-Task
-Data Cleaning
-Finding Profit Margin, Sales Quantity and Revenue made in each year/month
-Analyzing top 5 customers and product type by revenue
-Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
-Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
-Finding the Revenue trend by years
-Analyzing Revenue contribution by customer type
-Additional Tasks
-Final Report
-Insights
+
 
 Tools used: Power BI, MySQL
 
